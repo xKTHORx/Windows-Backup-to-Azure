@@ -1,0 +1,1 @@
+move /y \\xxx.xxx.xxx.xxx\Backups\*.bak "C:\INSERT BACKUP SERVER FILEPATH HERE"

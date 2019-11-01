@@ -1,0 +1,1 @@
+sqlcmd -U ENTERUSER -P ENTERPASSWORD -S SERVER\XXX -i C:\XXX\XXX_Full.sql -i C:\XXX\XXX_Full.sql
